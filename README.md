@@ -1,7 +1,7 @@
 # misc_lsystem_design
 Tool for L-system design
 
-![GUI](https://github.com/xbendl/misc_lsystem_design/blob/main/fig.png)
+![GUI](https://github.com/xbendl/misc_lsystem_design/blob/main/figx.png)
 
 Installation:
 =====
