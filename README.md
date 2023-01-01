@@ -1,5 +1,5 @@
 # misc_lsystem_design
-Tool for automatic L-system design utilizing genetic operators. Further description in [project documentation](https://github.com/xbendl/misc_lsystem_design/blob/main/dokumentace.pdf) and/or [project presentation](https://github.com/xbendl/misc_lsystem_design/blob/main/presentation.pdf)
+Tool for automatic L-system design utilizing genetic operators. Further description in [project documentation](https://github.com/xbendl/misc_lsystem_design/blob/main/dokumentace.pdf) and/or [project presentation](https://github.com/xbendl/misc_lsystem_design/blob/main/presentation.pdf).
 
 ![GUI](https://github.com/xbendl/misc_lsystem_design/blob/main/figx.png)
 
