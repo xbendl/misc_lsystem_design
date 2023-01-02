@@ -15,4 +15,4 @@ Run:
 
 Examples:
 ===========================
-To test this application, feel free to load pre-defined tasks from "examples" folder
+To test this application, feel free to load pre-defined tasks from `examples` folder
