@@ -1,15 +1,16 @@
 # misc_lsystem_design
-Tool for automatic L-system design utilizing genetic operators. Further description in [project documentation](https://github.com/xbendl/misc_lsystem_design/blob/main/dokumentace.pdf) and/or [project presentation](https://github.com/xbendl/misc_lsystem_design/blob/main/presentation.pdf).
+Tool for automatic L-system design utilizing genetic operators. Further description in [project documentation (CZ)](https://github.com/xbendl/misc_lsystem_design/blob/main/dokumentace.pdf) and/or [project presentation (CZ)](https://github.com/xbendl/misc_lsystem_design/blob/main/presentation.pdf).
 
 ![GUI](https://github.com/xbendl/misc_lsystem_design/blob/main/figx.png)
 
 Installation:
 =====
-1) Run "install.sh"
+1) Run `install.sh`
 
 Run:
 =====
-Synopsis: ./bin [paramFile]
+`Synopsis: ./bin [paramFile]`
+
   paramFile Optional parameter specifying the path to configuration file
 
 Examples:
